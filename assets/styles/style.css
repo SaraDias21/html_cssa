@@ -3,31 +3,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
-body{
-    margin: 0;
-    padding: 0;
+.fashion{
+    padding: 20px 30px;
 }
-h1, h2 {
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 700;
-    font-style: italic;
-    padding: 10px 15px 10px 15px;
-    color:	#4682B4
-}
-h3{
-    font-family: "Imperial Script", serif;
-    font-weight: 400;
-    font-size: 30px;
-    font-style: italic;
-    padding : auto;
-    color:rgb(rgb(69, 80, 182), rgb(6, 140, 202), rgb(60, 60, 68))
-}
-
-p { font-family: 'Times New Roman', Times, serif ;
-    font-weight: 600 ;
-    font-style: oblique;
-    padding: 15px 10px 15px 10px;
-    color:rgba(rgba(48, 78, 248, 0.452), rgb(87, 41, 41), rgb(126, 126, 238), 0.5)
-
-
+.fashion__female{
+    padding: 20px 30px;
 }
