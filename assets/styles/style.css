@@ -1,11 +1,30 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Open+Sans:wdth,wght@75,800&display=swap');
 
 
 .fashion{
     padding: 20px 30px;
+    color:cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .fashion__female{
     padding: 20px 30px;
+    color: darkcyan;
+    font-family: fantasy ;
+}
+.fashion__female-p{
+    font-size: 25px;
+    color: darkcyan;
+    padding-top: 20px;
+    margin:auto;
+    width: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 30px;
+
+}
+
+.fashion__female-h{
+     
 }
